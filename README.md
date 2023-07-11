@@ -10,7 +10,7 @@
 ### 克隆项目
 
 ```shell
-git clone https://github.com/LuckyTime1025/xiaohongshu.git
+git clone [https://github.com/LuckyTime1025/xiaohongshu.git](https://github.com/Leenjoy37/xiaohongshu.git)
 ```
 
 ### 进入项目目录
