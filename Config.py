@@ -21,6 +21,15 @@ title = ""
 describe = ""
 
 # 图片存放路径
-catalog_image = r"E:\Project\Python\小红书\image"
+catalog_image = r"C:\Users\Administrator\Desktop\小红书图片素材"
 # 文件后缀
 suffix = ['.jpg', '.jpeg', '.png', '.webp']
+
+# Excel文件配置
+excel_file = r"C:\Users\Administrator\Desktop\小红书文字内容\小红书.xlsx"
+sheet_name = "Sheet1"
+title_column = "A"
+describe_column = "B"
+
+# 图片路径数量
+num_images = 0
